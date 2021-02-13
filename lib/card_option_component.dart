@@ -9,7 +9,7 @@ class CardOptionComponent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 100,
+      width: 120,
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
         color: Color.fromRGBO(120, 70, 200, 0.4),
